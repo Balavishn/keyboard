@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">coderKey</string>
+    <string name="cama">,</string>
+    <string name="spl">!`$</string>
+    <string name="pull">.</string>
+    <string name="ques">\?</string>
+    <string name="es">!</string>
+    <string name="done">Successfully install</string>
+    <string name="g1">1.Open the Settings on your phone.</string>
+    <string name="g2">2.Scroll down and tap System.</string>
+    <string name="g3">3.Tap Languages and input.</string>
+    <string name="g4">4.Tap Virtual keyboard.</string>
+    <string name="g5">5.Tap Manage keyboards.</string>
+    <string name="g6">6.Tap the coderkey switch on.</string>
+    <string name="g7">7.Tap OK</string>
+    <string name="g8">8.Exit and Open keyboard Tap the keyboard icon in the bottom-right corner.</string>
+    <string name="g9">9.Tap the keyboard you want to switch to coderkey.</string>
+</resources>
